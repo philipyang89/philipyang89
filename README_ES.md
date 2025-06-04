@@ -10,7 +10,8 @@ Principalmente webs realizadas para trabajos de clase o videojuegos que me gusta
 
 🥖 [Panadería](https://philipyang89.github.io/buen-horno): Terminada en Febrero 2025 para mi asignatura de desarrollo de interfaces web.  
 🎮 [Hades](https://philipyang89.github.io/hades): Hecha en Marzo 2024 como tarea final para mi asignatura en lenguaje de marcas.  
-🔧 Hades 2 [**Proyecto Actual**]: La idea es profundizar en el backend para extraer data y vincularla a una base de datos de alguna forma.  
+🔥 [Hades 2](https://hades2.onrender.com): Empezada en Mayo 2025 como proyecto final de grado en DAW, una wikipedia donde demuestro  
+competencias en back-end y creado en Remix.js (un framework full-stack de React) usando estilos Tailwind v4.
 
 Todos mis repositorios pueden ser encontrados públicamente en mi perfil.  
 ## Páginas Web Comerciales
