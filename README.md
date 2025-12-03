@@ -1,7 +1,7 @@
 English | [Spanish](https://github.com/philipyang89/philipyang89/blob/main/README_ES.md) | [中文 (In-Progress)]()
 
-👋 Hi! I'm Xun Philip, a full-stack web developer.  
-💙 My goal is to eventually become a software engineer and turn ideas into reality.  
+👋 Hi! I'm Xun Philip, a full-stack software engineer.  
+💙 My goal is to eventually be able to turn any business ideas into reality.  
 🌏 I'm a chinese born in Spain.  
 ⚙️ Currently working in Essen, Germany.  
 
